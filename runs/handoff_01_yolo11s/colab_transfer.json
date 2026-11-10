@@ -1,0 +1,19 @@
+{
+  "source_checkpoint": "/content/DS_Group13_colab_v3/runs/detect/yolo11s_limited/weights/last.pt",
+  "source_best": "/content/DS_Group13_colab_v3/runs/detect/yolo11s_limited/weights/best.pt",
+  "completed_epochs": 13,
+  "total_epochs": 100,
+  "ultralytics": "8.4.190",
+  "data": "/content/DS_Group13_colab_v3/data/kaggle/prepared/vehicles/data.yaml",
+  "output": "/content/drive/MyDrive/DS_Group13_training/runs/handoff_01_yolo11s",
+  "device": "0",
+  "restored_state": [
+    "epoch",
+    "optimizer",
+    "scaler",
+    "ema",
+    "updates",
+    "stopper",
+    "best_fitness"
+  ]
+}

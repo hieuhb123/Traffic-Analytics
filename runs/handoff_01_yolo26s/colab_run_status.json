@@ -1,0 +1,10 @@
+{
+  "status": "completed",
+  "phase": "finished",
+  "model": "yolo26s",
+  "operation": "fresh-fine-tune",
+  "save_dir": "/content/drive/MyDrive/DS_Group13_training/runs/handoff_01_yolo26s",
+  "total_epochs": 100,
+  "started_at_utc": "2026-10-27T09:10:51.560871+00:00",
+  "updated_at_utc": "2026-10-27T09:18:26.593428+00:00"
+}

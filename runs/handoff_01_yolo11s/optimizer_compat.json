@@ -1,0 +1,9 @@
+{
+  "parameters": 256,
+  "parameters_with_state": 255,
+  "state_entries_before": 255,
+  "state_entries_after": 255,
+  "moment_tensors_normalized": 0,
+  "step_tensors_normalized": 0,
+  "next_epoch": 14
+}
