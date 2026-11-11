@@ -1,2 +1,3 @@
 # Checkpoint theo epoch quá lớn cho GitHub; chỉ giữ best.pt và last.pt
 runs/**/weights/epoch*.pt
+data/
