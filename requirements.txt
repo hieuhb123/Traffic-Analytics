@@ -1,0 +1,6 @@
+# PyTorch bản CUDA cài riêng trước (Windows/Linux có GPU NVIDIA):
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+ultralytics
+pandas
+pyyaml
+ipykernel

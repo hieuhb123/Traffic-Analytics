@@ -1,0 +1,5 @@
+{
+  "status": "completed",
+  "model": "yolo26s.pt",
+  "data": "vietnam-vehicle-detection v1"
+}

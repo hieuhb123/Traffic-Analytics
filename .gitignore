@@ -26,3 +26,25 @@ report/**/*.snm
 __pycache__/
 .ipynb_checkpoints/
 data/data_train.yaml
+
+# YOLO label cache (tự sinh lại khi train)
+*.cache
+
+# Pretrained weights gốc (Ultralytics tự tải lại); best.pt/last.pt trong runs/ vẫn được giữ
+/yolo*.pt
+
+# Logs
+runs/logs/
+*.log
+
+# Secrets / tracking tools
+.env
+wandb/
+mlruns/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
